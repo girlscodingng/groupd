@@ -1,0 +1,16 @@
+footer {
+    margin-top:100px;
+}
+footer .bottom {
+    color: black;
+    background-color: cyan ;
+    padding: 5px 5px 5px 5px 5px 5px;
+    opacity: 0.8;
+}
+footer h3{ 
+    text-align: center;
+}
+section img{
+        display:block;
+    margin: auto;
+}
